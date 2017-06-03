@@ -1,0 +1,25 @@
+{
+  "name": "udemy-javascript-avancado",
+  "version": "1.0.0",
+  "description": "ES6, ES2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiltonQuirino/udemy-javascript-avancado.git"
+  },
+  "keywords": [
+    "Javascript",
+    "ES6",
+    "ES2015",
+    "ECMAScript2015"
+  ],
+  "author": "Milton Quirino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiltonQuirino/udemy-javascript-avancado/issues"
+  },
+  "homepage": "https://github.com/MiltonQuirino/udemy-javascript-avancado#readme"
+}
